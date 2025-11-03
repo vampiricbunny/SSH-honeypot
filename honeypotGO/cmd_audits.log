@@ -1,0 +1,5 @@
+127.0.0.1, root, pass
+Command: ls executed by 127.0.0.1
+127.0.0.1, root, pass
+Command: pwd executed by 127.0.0.1
+Command: exit executed by 127.0.0.1
