@@ -78,4 +78,4 @@ This project demonstrates expertise in:
 - Python programming (multithreading, logging, and socket programming)
 - Cyber threat intelligence and forensic analysis
 
-If you are a recruiter or hiring manager, this project showcases my ability to design and deploy security tools, analyze attacks, and improve defensive strategies.  This is just something I put together to show that I’m capable and that I truly earned my certifications.
+If you're a recruiter or hiring manager, this project highlights my ability to design and deploy security tools, analyze attacks, and enhance defensive strategies. I created it to demonstrate my capabilities and to show that I've genuinely earned my certifications.
